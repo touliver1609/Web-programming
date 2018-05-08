@@ -1,0 +1,28 @@
+﻿body {
+}
+
+#top
+{    
+    margin:auto;
+    width:600px;
+    color:#ffffff;
+    background:url(backgr.jpg); 
+    text-align:center;
+}
+
+h1
+{
+    color:red;
+    font-size:30px;
+ 
+}
+
+h2
+{
+    color:orange;
+    font-size:25px;
+ 
+}
+
+
+

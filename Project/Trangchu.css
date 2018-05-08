@@ -1,0 +1,21 @@
+﻿body {
+    background:#C0C0C0;
+    font-family:Times New Roman;
+    font-size: large;
+}
+
+#content_master
+{
+    width:1000px;
+    margin:0px auto;
+    height:800px;
+}
+
+#top
+{
+    color:#ffffff;
+    background:url(./Images/backgr.jpg); 
+    width:887px; 
+    height:418px;
+    text-align:center;
+}

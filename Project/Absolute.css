@@ -1,0 +1,36 @@
+﻿body {
+}
+
+html
+{
+    background-color:Silver;
+    font:14px Arial,Sans-Serif;
+}
+#div3
+{
+    position:absolute;
+    left:46px;
+    top:40px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}
+#div2
+{
+    position:absolute;
+    left:305px;
+    top:46px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}
+#div1
+{
+    position:absolute;
+    left:562px;
+    top:47px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}
+
